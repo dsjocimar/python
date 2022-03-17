@@ -1,0 +1,1 @@
+print(f'{"Lojas da Bahia":^40} ur')
